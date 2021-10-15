@@ -16,6 +16,7 @@
         ></survey-result>
       </ul>
     </base-card>
+    <p></p>
   </section>
 </template>
 
